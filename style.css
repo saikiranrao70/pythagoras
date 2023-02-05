@@ -1,0 +1,25 @@
+body{
+margin: 0;
+padding: 0;
+background-image: url('./image.jpg');
+background-size: 100% 100%;}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+div.a{
+  text-align: center;
+  color: green;
+}
+
+div.b{
+  text-align: center;
+  color: blue;
+}
+
+div.c{
+  text-align: center;
+  color: red;
+}
